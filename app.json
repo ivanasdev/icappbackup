@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "InmobiCapital",
+    "slug": "InmobiCapital",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ivncso93.InmobiCapital"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cad2af8d-e531-4e3c-bcf6-ebeede7d7a03"
+      }
+    }
+  }
+}
